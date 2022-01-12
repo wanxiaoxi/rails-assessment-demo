@@ -1,0 +1,1 @@
+CREATE USER log_parser SUPERUSER;

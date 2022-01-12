@@ -32,6 +32,11 @@ DELETE  /api/v1/events/:event_id/comments/:id
 GET     /api/v1/events/:event_id/comments/delete_all
 ```
 
+### EC2 URI
+```
+http://ec2-54-218-248-24.us-west-2.compute.amazonaws.com/api/v1/events
+```
+
 ## CLI (bash + jq) examples
 
 Note: Set EC2 URL as local env var

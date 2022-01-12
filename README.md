@@ -39,7 +39,7 @@ http://ec2-54-218-248-24.us-west-2.compute.amazonaws.com/api/v1/events
 
 ## CLI (bash + jq) examples
 
-Note: Set EC2 URL as local env var
+Note: Set EC2 URI as local env var
 ```
 $ URI=http://ec2-54-218-248-24.us-west-2.compute.amazonaws.com/api/v1/events
 ```

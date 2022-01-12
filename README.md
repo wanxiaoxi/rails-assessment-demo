@@ -166,7 +166,7 @@ $ curl -X DELETE $URI/6f79c740-d9d8-4515-9ca1-9bd352b86c8a
 
 ##### Delete all events
 ```
-curl -X GET $URI/delete_all
+$ curl -X GET $URI/delete_all
 {"message":"6 events deleted"}
 ```
 
